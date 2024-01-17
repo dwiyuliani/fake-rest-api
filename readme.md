@@ -1,6 +1,19 @@
-###For fake rest API
+### For fake rest API
 
-#####Documentation : 
+
+##### Install
+```shell
+npm install
+```
+
+##### Run
+```shell
+npm start
+```
+
+
+##### Documentation : 
 
 json-server : https://github.com/typicode/json-server </br>
 faker-js : https://github.com/faker-js/faker
+
