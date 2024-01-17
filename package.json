@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^1.0.0-alpha.21"
+  },
+  "scripts":{
+    "start" : "json-server --watch commerce.json"
+  }
+}
